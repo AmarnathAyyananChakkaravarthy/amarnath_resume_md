@@ -43,4 +43,6 @@ Designing, configuring and building micro-services using Java Spring boot for re
 | **S.B.O.A School and Junior College, Chennai** | Class XII  | 2015-16|
 | **S.B.O.A School and Junior College, Chennai** | Class X  | 2013-14|
 
-                                        Inspired from [https://github.com/divyatiwari5/divyatiwari5.github.io](https://github.com/divyatiwari5/divyatiwari5.github.io)
+---
+Inspired from [https://github.com/divyatiwari5/divyatiwari5.github.io](https://github.com/divyatiwari5/divyatiwari5.github.io)
+---
