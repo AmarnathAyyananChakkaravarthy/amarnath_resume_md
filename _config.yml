@@ -6,3 +6,5 @@ email: acamarnath4@gmail.com
 
 social:
   github: https://github.com/AmarnathAyyananChakkaravarthy
+plugins:
+  - jemoji
