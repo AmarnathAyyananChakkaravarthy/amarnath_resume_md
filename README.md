@@ -29,9 +29,16 @@ Pitching in to potential clients, trying to convert sales, and building websites
 **System Engineer - Backend Developer** | Chennai | Jan 2021 - Sep 2023
 
 **Technologies**: Java, SpringBoot, Git, GCP, SQL, JIRA
+
 Designing, configuring and building micro-services using Java Spring boot for retail domain.
 
-## **Technologies Worked**  
+## Education
+
+| **Kongu Engineering College, Erode** | Bachelor of Engineering in Computer Science and Engineering | 2016-20|
+| **S.B.O.A School and Junior College, Chennai** | Class XII  | 2015-16|
+| **S.B.O.A School and Junior College, Chennai** | Class X  | 2013-14|
+
+## Technologies Worked
   Java | React | SpringBoot | TailwindCSS | SQL | Git | JIRA
 
 ## Language
@@ -40,11 +47,7 @@ Designing, configuring and building micro-services using Java Spring boot for re
 ## Skills
   Leadership | Adaptability | Problem Solving | Team Player
 
-## Education
 
-| **Kongu Engineering College, Erode** | Bachelor of Engineering in Computer Science and Engineering | 2016-20|
-| **S.B.O.A School and Junior College, Chennai** | Class XII  | 2015-16|
-| **S.B.O.A School and Junior College, Chennai** | Class X  | 2013-14|
 
 ---
 Inspired from [https://github.com/divyatiwari5/divyatiwari5.github.io](https://github.com/divyatiwari5/divyatiwari5.github.io)
