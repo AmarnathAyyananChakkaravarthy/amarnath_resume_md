@@ -1,5 +1,5 @@
 
-📧 [Mail](mailto:acamarnath4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amarnathac) | [GitHub](https://github.com/AmarnathAyyananChakkaravarthy) 
+📧 [Mail](mailto:acamarnath4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amarnathac) | [GitHub](https://github.com/AmarnathAyyananChakkaravarthy) </br>
 Chennai, India
 
 ## Objective
