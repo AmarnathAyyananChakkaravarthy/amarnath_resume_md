@@ -21,7 +21,8 @@ Recognizing the gap in custom technical services for small and mid-sized compani
 - [End-2-End](https://erp-web-app-v1.web.app/) (Archived): An ERP tool targeting electronics manufacturing based MSMEs.
 - [PS-Borewell](https://ps-borewell-frontend.web.app/) (Archived): A Management tool targeted to digitalize the Borewell Service Industry.
 
-### FreeLancer | Remote | Sep 2023 - Dec 2023
+### Freelancer 
+ Remote | Sep 2023 - Dec 2023
 Pitching in to potential clients, trying to convert sales, and building websites and software solutions. Was trying to build some of my side project ideas as well.
 
 ### [Tata Consultancy Services Limited](https://www.tcs.com/)
