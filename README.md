@@ -1,7 +1,7 @@
+:round_pushpin: Chennai, India
 
 📧 [Mail](mailto:acamarnath4@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amarnathac) | [GitHub](https://github.com/AmarnathAyyananChakkaravarthy)
 
-Chennai, India
 
 ## Objective
 One of my core goals in my life is to contribute to making the world a better place to live in. To achieve this, the plan is to learn- whenever, wherever, however possible and I firmly believe constant learning - both professionally and personally- is very much essential. My professional plan is to pursue a role that allows me to learn continuously, broaden my perspective, and actively contribute to solving important challenges. I aspire myself in a position where I can develop holistic solutions, collaborate with diverse stakeholders, and create strategies that promotes positive change at a larger scale.
