@@ -24,7 +24,7 @@ Recognizing the gap in custom technical services for small and mid-sized compani
 
 ### Freelancer 
 
- Remote | Sep 2023 - Dec 2023
+##### Remote | Sep 2023 - Dec 2023
 
 Pitching in to potential clients, trying to convert sales, and building websites and software solutions. Was trying to build some of my side project ideas as well.
 
