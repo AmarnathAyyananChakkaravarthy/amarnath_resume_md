@@ -4,12 +4,13 @@
 
 
 ## Objective
-One of my core goals in my life is to contribute to making the world a better place to live in. To achieve this, the plan is to learn- whenever, wherever, however possible and I firmly believe constant learning - both professionally and personally- is very much essential. My professional plan is to pursue a role that allows me to learn continuously, broaden my perspective, and actively contribute to solving important challenges. I aspire myself in a position where I can develop holistic solutions, collaborate with diverse stakeholders, and create strategies that promotes positive change at a larger scale.
+  One of my core goals in my life is to contribute to making the world a better place to live in. To achieve this, the plan is to learn- whenever, wherever, however possible and I firmly believe constant learning - both professionally and personally- is very much essential. My professional plan is to pursue a role that allows me to learn continuously, broaden my perspective, and actively contribute to solving important challenges. I aspire myself in a position where I can develop holistic solutions, collaborate with diverse stakeholders, and create strategies that promotes positive change at a larger scale.
 
 ## Experience
 
 ### [ThatBetterTeam](https://thatbetterteam.com/)
 **Tech Co-Founder** | Remote | Jan 2024 - Present
+
 Recognizing the gap in custom technical services for small and mid-sized companies, my two co-founders and I seized the opportunity and launched a technology consultancy firm- [ThatBetterTeam](https://thatbetterteam.com/)
 - [Akhbarkum Akhbarna](https://akhbarkum-akhbarna.com/)- Arabic News site
     We revamped their old website and developed Mobile Application (Android & iOS) to improve their users bandwidth.
@@ -22,7 +23,9 @@ Recognizing the gap in custom technical services for small and mid-sized compani
 - [PS-Borewell](https://ps-borewell-frontend.web.app/) (Archived): A Management tool targeted to digitalize the Borewell Service Industry.
 
 ### Freelancer 
- Remote | Sep 2023 - Dec 2023
+
+Remote | Sep 2023 - Dec 2023
+
 Pitching in to potential clients, trying to convert sales, and building websites and software solutions. Was trying to build some of my side project ideas as well.
 
 ### [Tata Consultancy Services Limited](https://www.tcs.com/)
