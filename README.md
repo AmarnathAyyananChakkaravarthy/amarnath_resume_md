@@ -31,9 +31,15 @@ Pitching in to potential clients, trying to convert sales, and building websites
 ### [Tata Consultancy Services Limited](https://www.tcs.com/)
 **System Engineer - Backend Developer** | Chennai | Jan 2021 - Sep 2023
 
-**Technologies**: Java, SpringBoot, Git, GCP, SQL, JIRA
+Tata Consultancy Services is a leading global leader in IT services, consulting, and business solutions, leverages technology for business transformation and helps catalyze change.
 
-Designing, configuring and building micro-services using Java Spring boot for retail domain.
+**Technologies**: Java, SpringBoot, GCP, Redis, ,Swagger, Git, Postman, JIRA.
+
+- Designing, configuring and building micro-services APIs using Java Spring boot for retail domain.
+- Fix priority API bugs.
+- Work collabratively with the front-end team and deliver API and respective docs for them to use the newly created APIs.
+- Document API workflows, API call input and output structure.
+- Write unit tests
 
 ## Education
 
@@ -50,6 +56,9 @@ Designing, configuring and building micro-services using Java Spring boot for re
 ## Skills
   Leadership | Adaptability | Problem Solving | Team Player
 
+## Publications
+  - [Detection of Plastics Using Convolutional Neural Network](https://bbrc.in/bbrc/wp-content/uploads/2020/06/Speical-Issue-Volume-13-4-2020.pdf#page=231)
+  - [A Hybrid Binary Cuttlefish and Genetic Algorithm Based Feature Selection for Improved Diagnosis of Parkinson’s Disease](http://www.testmagzine.biz/index.php/testmagzine/article/view/9973)
 
 
 ---
